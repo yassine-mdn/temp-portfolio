@@ -7,7 +7,7 @@ tech:
   - WordPress
   - Timber
   - WooCommerce
-company: 'Scout'
+company: 'SQLI'
 showInProjects: false
 ---
 
